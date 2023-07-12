@@ -7,7 +7,7 @@ const Testimonials = () => {
         <h1 className='text-white text-2xl sm:text-4xl  px-4 py-2'>
         What people are <br/>saying about us
         </h1>
-        <p className='text-lg py-4 md:py-2 my-4 md:my-2 w-1/2'>Everything you need to accept card payments and grow your business anywhere on the planet.</p>
+        <p className='text-lg py-4 md:py-2 my-4 md:my-2 w-1/2'>Everything you need to accept card payments and grow your business anywhere on the planet. </p>
 
       </div>
       
